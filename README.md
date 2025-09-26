@@ -1,0 +1,2 @@
+# Automatic-Plant-Irrigation-System-using-PIC12F675-Sensing-Nodes-Involving-Effective-Water-Management
+This project presents an Automatic Plant Irrigation System designed using the PIC12F675 microcontroller and moisture sensing nodes to enable effective water management supplying only the required amount of water, it prevents both under- and over-irrigation, ensuring plant growth while conserving, making it suitable for agricultural applications
